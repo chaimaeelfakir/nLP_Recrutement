@@ -1,0 +1,50 @@
+[
+  {     "id":1,
+        "Title": "Software Engineer",
+        "Description": "Develop and maintain software applications...",
+        "Skills": ["Python", "Java", "C++"],
+        "Entreprise":"BCG"
+    },
+  
+    {    "id":2,
+        "Title": "Data Scientist",
+        "Description": "Expérience avec Python, machine learning, analyse de données.",
+        "Skills": ["Python", "Java","SQL", "scikit-learn", "numpy", "scipy", "Flask", "AWS"],
+        "Entreprise":"IBM"
+    },
+    {   "id":3,
+        "Title": "Ingénieur Logiciel",
+        "Description": "Expérience en Java, développement de logiciels, informatique en nuage.",
+        "Skills": ["Java", "Développement Logiciel", "Informatique en Nuage"],
+        "Entreprise":"Amazon"
+    },
+    {   "id":4,
+        "Title": "Ingénieur en Machine Learning",
+        "Description": "Expertise en deep learning, Python, TensorFlow, PyTorch.",
+        "Skills": ["Deep Learning", "Python", "TensorFlow", "PyTorch", "Vision par Ordinateur","scikit-learn"],
+        "Entreprise":"IBM"
+    },
+    {   "id":5,
+        "Title": "Enseignant en Mathématiques",
+        "Description": "Enseignement des mathématiques au niveau secondaire, préparation des cours, évaluation des élèves, participation aux réunions pédagogiques.",
+        "Skills": ["Pédagogie", "Mathématiques", "Communication", "Gestion de classe", "Organisation"],
+        "Entreprise":"BCG"
+       
+    },
+    {   "id":6,
+        "Title": "Avocat en Droit des Affaires",
+        "Description": "Expertise en droit commercial, conseil juridique aux entreprises, rédaction de contrats, représentation devant les tribunaux.",
+        "Skills": ["Droit Commercial", "Rédaction de Contrats", "Négociation", "Plaidoirie", "Analyse Juridique"],
+        "Entreprise":"BCG"
+       
+    },
+    {   "id":7,
+        "Title": "Infirmière Diplômée",
+        "Description": "Fournir des soins infirmiers aux patients, surveiller les signes vitaux, administrer des médicaments, collaborer avec les médecins.",
+        "Location":"Rabat",
+        "Skills": ["Soins Infirmiers", "Administration de Médicaments", "Surveillance des Patients", "Collaboration Médicale", "Gestion du Stress"],
+        "Entreprise":"IBM"
+    }
+    
+
+]
